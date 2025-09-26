@@ -1,13 +1,13 @@
 {
     "packages": [
         {
-            "name": "IES AVR Boards",
+            "name": "ies",
             "maintainer": "DC-Digital",
             "website": "https://dc-digital.com",
             "email": "cylaswdcdigital@gmail.com",
             
             "platforms": [  {
-          "name": "ies",
+          "name": "IES AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
