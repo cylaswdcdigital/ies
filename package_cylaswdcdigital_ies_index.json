@@ -38,69 +38,7 @@
             }]
         }],
             
-            "tools": [
-              {
-      "name": "avr-gcc",
-      "version": "7.3.0-atmel3.6.1-arduino7",
-      "systems": [
-        {
-          "host": "x86_64-apple-darwin",
-          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin.tar.bz2",
-          "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-apple-darwin.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "x86_64-pc-linux-gnu",
-          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2",
-          "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-x86_64-pc-linux-gnu.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "i686-pc-linux-gnu",
-          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-pc-linux-gnu.tar.bz2",
-          "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-pc-linux-gnu.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "i686-mingw32",
-          "url": "https://downloads.arduino.cc/tools/avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-mingw32.zip",
-          "archiveFileName": "avr-gcc-7.3.0-atmel3.6.1-arduino7-i686-mingw32.zip",
-          "checksum": "SHA-256:..."
-        }
-      ]
-    },
-              {
-      "name": "avrdude",
-      "version": "6.3.0-arduino17",
-      "systems": [
-        {
-          "host": "x86_64-apple-darwin",
-          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-x86_64-apple-darwin.tar.bz2",
-          "archiveFileName": "avrdude-6.3.0-arduino17-x86_64-apple-darwin.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "x86_64-pc-linux-gnu",
-          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-x86_64-pc-linux-gnu.tar.bz2",
-          "archiveFileName": "avrdude-6.3.0-arduino17-x86_64-pc-linux-gnu.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "i686-pc-linux-gnu",
-          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-i686-pc-linux-gnu.tar.bz2",
-          "archiveFileName": "avrdude-6.3.0-arduino17-i686-pc-linux-gnu.tar.bz2",
-          "checksum": "SHA-256:..."
-        },
-        {
-          "host": "i686-mingw32",
-          "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino17-i686-mingw32.zip",
-          "archiveFileName": "avrdude-6.3.0-arduino17-i686-mingw32.zip",
-          "checksum": "SHA-256:..."
-        }
-      ]
-    }
-              
-            ]
+            "tools": []
 }
       ]
 }
