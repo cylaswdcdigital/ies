@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://cylaswdcdigital.github.io/ies/ies.zip",
           "archiveFileName": "ies.zip",
-          "checksum": "SHA-256:0635615dc538a2d9373d15b83e38dc8096c60737cc591386402916a9ecc286e6",
-          "size": "3,991",
+          "checksum": "SHA-256:6bb9a158fea13a13c5e721804eae7d78bf3889238c316d1451292b886f007403",
+          "size": "4,447",
           "boards": [
             {
               "name": "ATmega1284P"
