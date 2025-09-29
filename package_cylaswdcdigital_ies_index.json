@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "IES AVR Boards",
+            "name": "ies",
             "maintainer": "DC-Digital",
             "website": "https://dc-digital.com",
             "email": "cylaswdcdigital@gmail.com",
