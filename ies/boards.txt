@@ -7,7 +7,7 @@
 1284.upload.maximum_size=131072
 1284.upload.maximum_data_size=16384
 
-1284.bootloader.tool=ies:avrdude
+1284.bootloader.tool=arduino:avrdude
 1284.bootloader.low_fuses=0xFF
 1284.bootloader.high_fuses=0xD1
 1284.bootloader.extended_fuses=0xFD
@@ -25,7 +25,7 @@
 #############
 
 328.name=IES 328P
-328.upload.tool=ies:avrdude
+328.upload.tool=arduino:avrdude
 328.upload.maximum_size=32768
 328.upload.maximum_data_size=2048
 
