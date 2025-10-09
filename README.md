@@ -18,7 +18,7 @@ This installation method requires Arduino IDE version 1.8.0 or greater.
 * Enter the following URL in **Additional Boards Manager URLs**:
 
     ```
-    https://cylaswdcdigital.github.io/ies/package_cylaswdcdigital_ies_index.json
+    https://IES-DC-Digital.github.io/ies/package_cylaswdcdigital_ies_index.json
     ```
 
 * Open the **Tools > Board > Boards Manager...** menu item.
