@@ -11,10 +11,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://cylaswdcdigital.github.io/ies/ies.zip",
+          "url": "https://IES-DC-Digital.github.io/ies/ies.zip",
           "archiveFileName": "ies.zip",
-          "checksum": "SHA-256:6bb9a158fea13a13c5e721804eae7d78bf3889238c316d1451292b886f007403",
-          "size": "4,447",
+          "checksum": "SHA-256:87d75661546e12b715de5d69f01b9f0d2a58b76c0aca17f56e97e31441eb58c9",
+          "size": "3,994",
           "boards": [
             {
               "name": "ATmega1284P"
